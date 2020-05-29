@@ -1,0 +1,46 @@
+title: Become an open source enterprise
+description: >-
+  Learn about open source in the enterprise. It's about more than just
+  contributing!
+steps:
+  - link: 'https://www.youtube.com/watch?v=a8fHgx9mE5U'
+    title: What is open source? Explained in Legos
+    description: >-
+      Before getting into the details of open source within an organization,
+      clarify your idea of what open source software means and how it's used.
+  - link: 'https://www.redhat.com/en/enterprise-open-source-report/2019'
+    title: 'The state of enterprise open source: A Red Hat report'
+    description: >
+      Participation in open source software is the future. If you're not already
+      convinced of this, The State of Enterprise Open Source will probably
+      change your mind.
+  - course: create-an-open-source-program
+    description: >-
+      Leverage and contribute to open source software on behalf of your
+      organization by creating an open source program.
+  - link: 'https://github.com/firstcontributions/first-contributions'
+    title: 'Open source workflows: First contributions'
+    description: >
+      This guided tutorial will walk you through the steps of an open source
+      workflow. Fork, clone, branch, and gain approval in a pull request to see
+      how work is done in open source.
+  - link: >-
+      https://www.linuxfoundation.org/resources/open-source-guides/starting-open-source-project/
+    title: Starting an open source project
+    description: >
+      This in-depth guide is a built on the advice of experts from the Linux
+      Foundation. With many of the same themes as other resources in this
+      learning path, this guide will tell you where to start and what to look
+      forward to.
+  - course: community-starter-kit
+    description: >-
+      There are millions of projects on GitHub, all competing for attention from
+      the millions of open source contributors available to help. Learn how to
+      help your project stand out.
+  - link: 'https://opensource.guide/building-community/'
+    title: Building a community
+    description: >
+      Build a community that encourages people to use, contribute to, and
+      evangelize your project. This guide covers how to set your project up for
+      success from the beginning, and foster community throughout your project's
+      growth.
