@@ -2,7 +2,7 @@
 
 <h1 align="center">Course: Become an open source enterprise</h1>
 
-This repository powers the Learning Lab course [_Become an open source enterprise_](https://lab.github.com/githubtraining/become-an-open-source-enterprise). 
+This repository powers the Learning Path [_Become an open source enterprise_](https://lab.github.com/githubtraining/become-an-open-source-enterprise). 
 
 ## Contribute
 
